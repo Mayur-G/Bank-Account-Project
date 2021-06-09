@@ -1,2 +1,2 @@
-# Core-Java-Project-
+# Banking Account Project-
 OO Programming .
